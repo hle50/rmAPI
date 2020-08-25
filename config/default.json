@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://hoale:Ledanghoa01@hoat.fowug.mongodb.net/hoat?retryWrites=true&w=majority",
+  "jwtSecret": "OKOKO"
+}
